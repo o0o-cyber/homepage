@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+  }
+
+.main-bg {
+    background-image: url("http://getwallpapers.com/wallpaper/full/b/5/9/529344.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.cool-stripe {
+    background-color: rgb(0, 195, 255);
+    position: absolute;
+}
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+
+.bg-cool {
+    background-color: rgba(255, 255, 255, 0.637);
+}
+
+.carousel-inner {
+    height: initial;
+}
